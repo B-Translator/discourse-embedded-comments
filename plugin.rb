@@ -4,7 +4,7 @@
 # authors: Dashamir Hoxha
 
 #if params[:embedded] == 'true'
-  register_asset "javascripts/iframeResizer.contentWindow.min.js", :server_side
+  register_asset "javascript/iframeResizer.contentWindow.min.js", :server_side
 
   register_css <<CSS
 
