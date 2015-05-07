@@ -7,6 +7,7 @@
   register_asset "javascript/iframeResizer.contentWindow.min.js", :server_side
 
   register_css <<CSS
+#site-logo,
 #topic-title,
 #topic-body,
 #suggested-topics {
