@@ -9,7 +9,7 @@
   register_css <<CSS
 #site-logo,
 #topic-title,
-#topic-body,
+#post-cloak-1,
 #suggested-topics {
   display: none;
 }
